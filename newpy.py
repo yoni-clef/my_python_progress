@@ -100,6 +100,7 @@
 # print(random_integer)
 
 fruits=["yonatan","ashenafi"]
+fruits.append("abigu")
 print(fruits)
 
 
