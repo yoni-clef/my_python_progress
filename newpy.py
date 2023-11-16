@@ -99,11 +99,8 @@
 #   print("thank you for using us")
 # print(random_integer)
 
-fruits=["yoni","dero"]
-fruits.append("abigu")
-sole=fruits.sort()
-fruits.index("abigu")
-fruits.remove("abigu")
-fruits.append("lala")
+fruits=["yonatan","ashenafi"]
 print(fruits)
+
+
  
